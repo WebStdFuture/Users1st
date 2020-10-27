@@ -1,5 +1,5 @@
-# Questions for Breakout Session
-
+# Questions for Breakout Session 
+Most of these were inspired by https://www.mnot.net/blog/2020/08/28/for_the_users
 ## Do "users" exist as a group whose needs we can understand and address?
 
 ## What problems happen when standards  don't pay  attention to end user needs? Examples?
@@ -16,3 +16,4 @@ Will many members object to W3C changing the ground rules?
 - Accept that the membership could shrink as we focus on core values?
 - Double down on user agents as the mechanisms to pursue the values?
 - Accept that W3C is an advocacy organization for those values not just a technical SDO?
+- Make serious efforts to understand and incorporate non-technical input on draft standards?
