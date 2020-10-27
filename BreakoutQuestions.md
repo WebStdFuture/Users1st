@@ -17,3 +17,10 @@ Will many members object to W3C changing the ground rules?
 - Double down on user agents as the mechanisms to pursue the values?
 - Accept that W3C is an advocacy organization for those values not just a technical SDO?
 - Make serious efforts to understand and incorporate non-technical input on draft standards?
+
+## References
+* https://www.rfc-editor.org/rfc/rfc8890.html (text version: https://tools.ietf.org/html/rfc8890)
+
+## Additional reading
+* https://www.w3.org/2001/tag/doc/ethical-web-principles/
+* https://www.w3.org/TR/html-design-principles/
